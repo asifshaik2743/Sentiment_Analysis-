@@ -4,7 +4,7 @@
 
 This project is an end-to-end **Sentiment Analysis** application that uses machine learning and natural language processing (NLP) techniques to predict the sentiment (positive/negative) from product review text.
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 .
